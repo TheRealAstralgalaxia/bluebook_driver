@@ -2,7 +2,7 @@
   {
     "question_number": 1,
     "passage": "",
-    "prompt": "The figure shown is a right rectangular pyramid, where $\\ell=10$ units, $w=5$ units, and $h=11$ units. What is the total surface area, in square units, of the pyramid?",
+    "prompt": "Github question grab test",
     "options": {},
     "answer": "223.22",
     "answer_exact": "50+5\\sqrt{509}+5\\sqrt{146}",
