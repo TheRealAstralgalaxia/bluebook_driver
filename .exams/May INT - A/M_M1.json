@@ -1,0 +1,312 @@
+[
+  {
+    "question_number": 1,
+    "response_type": "student_produced",
+    "prompt": "\\[13x=42-x\\]What value of \\(x\\) is the solution to the given equation?",
+    "options": {},
+    "answer": null,
+    "source_document": "MAY - VER 1 -  INT -  2024.pdf",
+    "source_page": 1,
+    "has_uncertain_transcription": false
+  },
+  {
+    "question_number": 2,
+    "response_type": "multiple_choice",
+    "prompt": "An arborist measured and recorded the heights of red maple trees in a certain area. Of the red maple tree heights recorded in this area, the minimum was 42 feet and the maximum was 57 feet. Which inequality is true for all possible values of \\(t\\), where \\(t\\) represents the recorded height, in feet, of a red maple tree in this area?",
+    "options": {
+      "A": "\\(t\\leq42\\)",
+      "B": "\\(t\\geq57\\)",
+      "C": "\\(t\\geq99\\)",
+      "D": "\\(42\\leq t\\leq57\\)"
+    },
+    "answer": null,
+    "source_document": "MAY - VER 1 -  INT -  2024.pdf",
+    "source_page": 2,
+    "has_uncertain_transcription": false
+  },
+  {
+    "question_number": 3,
+    "response_type": "multiple_choice",
+    "prompt": "Javier deposits \\$45 in a savings account at the end of each week. At the beginning of the 1st week of a year there was \\$700 in that savings account. How much money, in dollars, will be in the account at the end of the 6th week of the year?",
+    "options": {
+      "A": "430",
+      "B": "745",
+      "C": "751",
+      "D": "970"
+    },
+    "answer": null,
+    "source_document": "MAY - VER 1 -  INT -  2024.pdf",
+    "source_page": 3,
+    "has_uncertain_transcription": false
+  },
+  {
+    "question_number": 4,
+    "response_type": "student_produced",
+    "prompt": "The \\(y\\)-intercept of the graph of \\(y=2x^{2}+27\\) is \\((0,y)\\). What is the value of \\(y\\)?",
+    "options": {},
+    "answer": null,
+    "source_document": "MAY - VER 1 -  INT -  2024.pdf",
+    "source_page": 4,
+    "has_uncertain_transcription": false
+  },
+  {
+    "question_number": 5,
+    "response_type": "multiple_choice",
+    "prompt": "In 2000, a census was taken to determine the population of a certain town. The graph gives the estimated population \\(y\\), in thousands, of this town \\(x\\) years after the 2000 census was taken, where \\(0\\leq x\\leq 5\\). Based on the graph, which of the following is the closest to the estimated population 2 years after the 2000 census was taken?",
+    "options": {
+      "A": "7,400",
+      "B": "6,200",
+      "C": "4,300",
+      "D": "3,000"
+    },
+    "answer": null,
+    "source_document": "MAY - VER 1 -  INT -  2024.pdf",
+    "source_page": 5,
+    "has_uncertain_transcription": false,
+    "figure": {
+      "type": "svg",
+      "alt": "Graph of estimated town population in thousands versus years after the 2000 census.",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"620\" height=\"430\" viewBox=\"0 0 620 430\" role=\"img\"><line x1=\"90.0\" y1=\"25\" x2=\"90.0\" y2=\"305\" stroke=\"#555\" stroke-width=\"1\"/><line x1=\"156.0\" y1=\"25\" x2=\"156.0\" y2=\"305\" stroke=\"#555\" stroke-width=\"1\"/><line x1=\"222.0\" y1=\"25\" x2=\"222.0\" y2=\"305\" stroke=\"#555\" stroke-width=\"1\"/><line x1=\"288.0\" y1=\"25\" x2=\"288.0\" y2=\"305\" stroke=\"#555\" stroke-width=\"1\"/><line x1=\"354.0\" y1=\"25\" x2=\"354.0\" y2=\"305\" stroke=\"#555\" stroke-width=\"1\"/><line x1=\"420.0\" y1=\"25\" x2=\"420.0\" y2=\"305\" stroke=\"#555\" stroke-width=\"1\"/><line x1=\"90\" y1=\"305.0\" x2=\"420\" y2=\"305.0\" stroke=\"#555\" stroke-width=\"1\"/><line x1=\"90\" y1=\"285.0\" x2=\"420\" y2=\"285.0\" stroke=\"#555\" stroke-width=\"1\"/><line x1=\"90\" y1=\"265.0\" x2=\"420\" y2=\"265.0\" stroke=\"#555\" stroke-width=\"1\"/><line x1=\"90\" y1=\"245.0\" x2=\"420\" y2=\"245.0\" stroke=\"#555\" stroke-width=\"1\"/><line x1=\"90\" y1=\"225.0\" x2=\"420\" y2=\"225.0\" stroke=\"#555\" stroke-width=\"1\"/><line x1=\"90\" y1=\"205.0\" x2=\"420\" y2=\"205.0\" stroke=\"#555\" stroke-width=\"1\"/><line x1=\"90\" y1=\"185.0\" x2=\"420\" y2=\"185.0\" stroke=\"#555\" stroke-width=\"1\"/><line x1=\"90\" y1=\"165.0\" x2=\"420\" y2=\"165.0\" stroke=\"#555\" stroke-width=\"1\"/><line x1=\"90\" y1=\"145.0\" x2=\"420\" y2=\"145.0\" stroke=\"#555\" stroke-width=\"1\"/><line x1=\"90\" y1=\"125.0\" x2=\"420\" y2=\"125.0\" stroke=\"#555\" stroke-width=\"1\"/><line x1=\"90\" y1=\"105.0\" x2=\"420\" y2=\"105.0\" stroke=\"#555\" stroke-width=\"1\"/><line x1=\"90\" y1=\"85.0\" x2=\"420\" y2=\"85.0\" stroke=\"#555\" stroke-width=\"1\"/><line x1=\"90\" y1=\"65.0\" x2=\"420\" y2=\"65.0\" stroke=\"#555\" stroke-width=\"1\"/><line x1=\"90\" y1=\"45.0\" x2=\"420\" y2=\"45.0\" stroke=\"#555\" stroke-width=\"1\"/><line x1=\"90\" y1=\"25.0\" x2=\"420\" y2=\"25.0\" stroke=\"#555\" stroke-width=\"1\"/><line x1=\"90\" y1=\"305\" x2=\"442\" y2=\"305\" stroke=\"#111\" stroke-width=\"2.5\"/><polygon points=\"442,305 430,299 430,311\" fill=\"#111\"/><line x1=\"90\" y1=\"305\" x2=\"90\" y2=\"7\" stroke=\"#111\" stroke-width=\"2.5\"/><polygon points=\"90,7 84,19 96,19\" fill=\"#111\"/><text x=\"72\" y=\"323\" font-family=\"Georgia,Times New Roman,serif\" font-size=\"20\">O</text><text x=\"448\" y=\"313\" font-family=\"Georgia,Times New Roman,serif\" font-size=\"24\" font-style=\"italic\">x</text><text x=\"84\" y=\"-3\" font-family=\"Georgia,Times New Roman,serif\" font-size=\"24\" font-style=\"italic\">y</text><text x=\"156.0\" y=\"329\" text-anchor=\"middle\" font-family=\"Georgia,Times New Roman,serif\" font-size=\"18\">1</text><text x=\"222.0\" y=\"329\" text-anchor=\"middle\" font-family=\"Georgia,Times New Roman,serif\" font-size=\"18\">2</text><text x=\"288.0\" y=\"329\" text-anchor=\"middle\" font-family=\"Georgia,Times New Roman,serif\" font-size=\"18\">3</text><text x=\"354.0\" y=\"329\" text-anchor=\"middle\" font-family=\"Georgia,Times New Roman,serif\" font-size=\"18\">4</text><text x=\"420.0\" y=\"329\" text-anchor=\"middle\" font-family=\"Georgia,Times New Roman,serif\" font-size=\"18\">5</text><text x=\"76\" y=\"291.0\" text-anchor=\"end\" font-family=\"Georgia,Times New Roman,serif\" font-size=\"16\">1</text><text x=\"76\" y=\"271.0\" text-anchor=\"end\" font-family=\"Georgia,Times New Roman,serif\" font-size=\"16\">2</text><text x=\"76\" y=\"251.0\" text-anchor=\"end\" font-family=\"Georgia,Times New Roman,serif\" font-size=\"16\">3</text><text x=\"76\" y=\"231.0\" text-anchor=\"end\" font-family=\"Georgia,Times New Roman,serif\" font-size=\"16\">4</text><text x=\"76\" y=\"211.0\" text-anchor=\"end\" font-family=\"Georgia,Times New Roman,serif\" font-size=\"16\">5</text><text x=\"76\" y=\"191.0\" text-anchor=\"end\" font-family=\"Georgia,Times New Roman,serif\" font-size=\"16\">6</text><text x=\"76\" y=\"171.0\" text-anchor=\"end\" font-family=\"Georgia,Times New Roman,serif\" font-size=\"16\">7</text><text x=\"76\" y=\"151.0\" text-anchor=\"end\" font-family=\"Georgia,Times New Roman,serif\" font-size=\"16\">8</text><text x=\"76\" y=\"131.0\" text-anchor=\"end\" font-family=\"Georgia,Times New Roman,serif\" font-size=\"16\">9</text><text x=\"76\" y=\"111.0\" text-anchor=\"end\" font-family=\"Georgia,Times New Roman,serif\" font-size=\"16\">10</text><text x=\"76\" y=\"91.0\" text-anchor=\"end\" font-family=\"Georgia,Times New Roman,serif\" font-size=\"16\">11</text><text x=\"76\" y=\"71.0\" text-anchor=\"end\" font-family=\"Georgia,Times New Roman,serif\" font-size=\"16\">12</text><text x=\"76\" y=\"51.0\" text-anchor=\"end\" font-family=\"Georgia,Times New Roman,serif\" font-size=\"16\">13</text><text x=\"76\" y=\"31.0\" text-anchor=\"end\" font-family=\"Georgia,Times New Roman,serif\" font-size=\"16\">14</text><text x=\"255.0\" y=\"416\" text-anchor=\"middle\" font-family=\"Georgia,Times New Roman,serif\" font-size=\"18\">Years after census was taken</text><text x=\"20\" y=\"165.0\" transform=\"rotate(-90 20 165.0)\" text-anchor=\"middle\" font-family=\"Georgia,Times New Roman,serif\" font-size=\"18\">Population (in thousands)</text><path d=\"M 90.0 245.0 Q 156.0 234.0 189.0 226.0 Q 222.0 218.0 255.0 210.0 Q 288.0 202.0 321.0 191.5 Q 354.0 181.0 387.0 169.0 T 420.0 157.0\" fill=\"none\" stroke=\"#111\" stroke-width=\"3\"/></svg>"
+    }
+  },
+  {
+    "question_number": 6,
+    "response_type": "multiple_choice",
+    "prompt": "\\[f(x)=5x+b\\]For the linear function \\(f\\), \\(b\\) is a constant and \\(f(7)=35\\). What is the value of \\(b\\)?",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "5",
+      "D": "7"
+    },
+    "answer": null,
+    "source_document": "MAY - VER 1 -  INT -  2024.pdf",
+    "source_page": 6,
+    "has_uncertain_transcription": false
+  },
+  {
+    "question_number": 7,
+    "response_type": "multiple_choice",
+    "prompt": "The function \\(h\\) is defined by \\(h(x)=5|x|\\). What is the value of \\(h(-3)\\)?",
+    "options": {
+      "A": "-15",
+      "B": "2",
+      "C": "8",
+      "D": "15"
+    },
+    "answer": null,
+    "source_document": "MAY - VER 1 -  INT -  2024.pdf",
+    "source_page": 7,
+    "has_uncertain_transcription": false
+  },
+  {
+    "question_number": 8,
+    "response_type": "multiple_choice",
+    "prompt": "The table shows the frequency of values in a data set. What is the minimum value of the data set?",
+    "options": {
+      "A": "1",
+      "B": "8",
+      "C": "13",
+      "D": "20"
+    },
+    "answer": null,
+    "source_document": "MAY - VER 1 -  INT -  2024.pdf",
+    "source_page": 8,
+    "has_uncertain_transcription": false,
+    "figure": {
+      "type": "svg",
+      "alt": "A two-column table with headers Value and Frequency and rows 13-8, 20-1, 27-8, and 34-6.",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"400\" height=\"270\" viewBox=\"0 0 400 270\" role=\"img\"><rect x=\"10\" y=\"10\" width=\"380\" height=\"250\" fill=\"none\" stroke=\"#222\" stroke-width=\"2\"/><line x1=\"10\" y1=\"60\" x2=\"390\" y2=\"60\" stroke=\"#222\" stroke-width=\"1.5\"/><line x1=\"10\" y1=\"110\" x2=\"390\" y2=\"110\" stroke=\"#222\" stroke-width=\"1.5\"/><line x1=\"10\" y1=\"160\" x2=\"390\" y2=\"160\" stroke=\"#222\" stroke-width=\"1.5\"/><line x1=\"10\" y1=\"210\" x2=\"390\" y2=\"210\" stroke=\"#222\" stroke-width=\"1.5\"/><line x1=\"200\" y1=\"10\" x2=\"200\" y2=\"260\" stroke=\"#222\" stroke-width=\"1.5\"/><text x=\"105.0\" y=\"44.0\" text-anchor=\"middle\" font-family=\"Georgia,Times New Roman,serif\" font-size=\"20\">Value</text><text x=\"295.0\" y=\"44.0\" text-anchor=\"middle\" font-family=\"Georgia,Times New Roman,serif\" font-size=\"20\">Frequency</text><text x=\"105.0\" y=\"94.0\" text-anchor=\"middle\" font-family=\"Georgia,Times New Roman,serif\" font-size=\"18\">13</text><text x=\"295.0\" y=\"94.0\" text-anchor=\"middle\" font-family=\"Georgia,Times New Roman,serif\" font-size=\"18\">8</text><text x=\"105.0\" y=\"144.0\" text-anchor=\"middle\" font-family=\"Georgia,Times New Roman,serif\" font-size=\"18\">20</text><text x=\"295.0\" y=\"144.0\" text-anchor=\"middle\" font-family=\"Georgia,Times New Roman,serif\" font-size=\"18\">1</text><text x=\"105.0\" y=\"194.0\" text-anchor=\"middle\" font-family=\"Georgia,Times New Roman,serif\" font-size=\"18\">27</text><text x=\"295.0\" y=\"194.0\" text-anchor=\"middle\" font-family=\"Georgia,Times New Roman,serif\" font-size=\"18\">8</text><text x=\"105.0\" y=\"244.0\" text-anchor=\"middle\" font-family=\"Georgia,Times New Roman,serif\" font-size=\"18\">34</text><text x=\"295.0\" y=\"244.0\" text-anchor=\"middle\" font-family=\"Georgia,Times New Roman,serif\" font-size=\"18\">6</text></svg>"
+    }
+  },
+  {
+    "question_number": 9,
+    "response_type": "student_produced",
+    "prompt": "The list gives the mass, in grams, of 5 ruffed lemurs.\n3,910; 3,910; 3,130; 3,950; 3,150\nWhat is the mean mass, in grams, of these 5 ruffed lemurs?",
+    "options": {},
+    "answer": null,
+    "source_document": "MAY - VER 1 -  INT -  2024.pdf",
+    "source_page": 9,
+    "has_uncertain_transcription": false
+  },
+  {
+    "question_number": 10,
+    "response_type": "multiple_choice",
+    "prompt": "\\[\\begin{aligned}y&=5(x-3)\\\\y&=(x-3)^{2}\\end{aligned}\\]Which ordered pair \\((x,y)\\) is a solution to the given system of equations?",
+    "options": {
+      "A": "\\((8,-5)\\)",
+      "B": "\\((8,25)\\)",
+      "C": "\\((3,8)\\)",
+      "D": "\\((2,-5)\\)"
+    },
+    "answer": null,
+    "source_document": "MAY - VER 1 -  INT -  2024.pdf",
+    "source_page": 10,
+    "has_uncertain_transcription": false
+  },
+  {
+    "question_number": 11,
+    "response_type": "multiple_choice",
+    "prompt": "Scientists collected fallen acorns that each housed a colony of the ant species P. ohioensis and analyzed each colony\\'s structure. For any of these colonies, if the colony has \\(x\\) worker ants, the equation \\(y=0.67x+2.6\\), where \\(20\\leq x\\leq110\\), gives the predicted number of larvae, \\(y\\), in the colony. If one of these colonies has 46 worker ants, which of the following is closest to the predicted number of larvae in the colony?",
+    "options": {
+      "A": "33",
+      "B": "49",
+      "C": "65",
+      "D": "150"
+    },
+    "answer": null,
+    "source_document": "MAY - VER 1 -  INT -  2024.pdf",
+    "source_page": 11,
+    "has_uncertain_transcription": false
+  },
+  {
+    "question_number": 12,
+    "response_type": "multiple_choice",
+    "prompt": "Liam has \\$150 in an account. Each year he expects to have 2.8% more money in the account than he had the previous year. Which of the following models best describes how Liam expects the money in his account to change over time?",
+    "options": {
+      "A": "Decreasing exponential",
+      "B": "Decreasing linear",
+      "C": "Increasing exponential",
+      "D": "Increasing linear"
+    },
+    "answer": null,
+    "source_document": "MAY - VER 1 -  INT -  2024.pdf",
+    "source_page": 12,
+    "has_uncertain_transcription": false
+  },
+  {
+    "question_number": 13,
+    "response_type": "student_produced",
+    "prompt": "\\[\\begin{aligned}9x+5y&=19\\\\-9x-3y&=7\\end{aligned}\\]The solution to the given system of equations is \\((x,y)\\). What is the value of \\(2y\\)?",
+    "options": {},
+    "answer": null,
+    "source_document": "MAY - VER 1 -  INT -  2024.pdf",
+    "source_page": 13,
+    "has_uncertain_transcription": false
+  },
+  {
+    "question_number": 14,
+    "response_type": "multiple_choice",
+    "prompt": "Line \\(k\\) is defined by \\(y=6x+\\frac{1}{9}\\). Line \\(j\\) is perpendicular to line \\(k\\) in the \\(xy\\)-plane. What is the slope of line \\(j\\)?",
+    "options": {
+      "A": "\\(\\frac{1}{9}\\)",
+      "B": "\\(-\\frac{1}{6}\\)",
+      "C": "\\(-9\\)",
+      "D": "\\(6\\)"
+    },
+    "answer": null,
+    "source_document": "MAY - VER 1 -  INT -  2024.pdf",
+    "source_page": 14,
+    "has_uncertain_transcription": false
+  },
+  {
+    "question_number": 15,
+    "response_type": "student_produced",
+    "prompt": "The product of a positive number \\(x\\) and the number that is 7 less than \\(x\\) is equal to 228. What is the value of \\(x\\)?",
+    "options": {},
+    "answer": null,
+    "source_document": "MAY - VER 1 -  INT -  2024.pdf",
+    "source_page": 15,
+    "has_uncertain_transcription": false
+  },
+  {
+    "question_number": 16,
+    "response_type": "student_produced",
+    "prompt": "Raheem bought 9 shirts that were each the same price. He used a coupon for \\$54 off the entire purchase. The cost for the entire purchase after using the coupon was \\$108. What was the original price, in dollars, for 1 shirt?",
+    "options": {},
+    "answer": null,
+    "source_document": "MAY - VER 1 -  INT -  2024.pdf",
+    "source_page": 16,
+    "has_uncertain_transcription": false
+  },
+  {
+    "question_number": 17,
+    "response_type": "multiple_choice",
+    "prompt": "\\[7|x-7|=42\\]What is the sum of the solutions to the given equation?",
+    "options": {
+      "A": "-6",
+      "B": "0",
+      "C": "14",
+      "D": "49"
+    },
+    "answer": null,
+    "source_document": "MAY - VER 1 -  INT -  2024.pdf",
+    "source_page": 17,
+    "has_uncertain_transcription": false
+  },
+  {
+    "question_number": 18,
+    "response_type": "student_produced",
+    "prompt": "In the figure, \\(RT=TU\\), the measure of angle \\(VST\\) is \\(23^{\\circ}\\), and the measure of angle \\(RVS\\) is \\(34^{\\circ}\\). What is the value of \\(x\\)?",
+    "options": {},
+    "answer": null,
+    "source_document": "MAY - VER 1 -  INT -  2024.pdf",
+    "source_page": 18,
+    "has_uncertain_transcription": false,
+    "figure": {
+      "type": "svg",
+      "alt": "Geometry figure with collinear points U, V, R and points T and S above the line. Segments US, VS, and TR are drawn; x degrees is marked at T.",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"520\" height=\"280\" viewBox=\"0 0 520 280\" role=\"img\"><line x1=\"40\" y1=\"220\" x2=\"430\" y2=\"220\" stroke=\"#111\" stroke-width=\"2.5\"/><line x1=\"40\" y1=\"220\" x2=\"430\" y2=\"30\" stroke=\"#111\" stroke-width=\"2.5\"/><line x1=\"320\" y1=\"220\" x2=\"430\" y2=\"30\" stroke=\"#111\" stroke-width=\"2.5\"/><line x1=\"220\" y1=\"132\" x2=\"430\" y2=\"220\" stroke=\"#111\" stroke-width=\"2.5\"/><text x=\"28\" y=\"248\" font-family=\"Georgia,Times New Roman,serif\" font-size=\"22\" font-style=\"italic\">U</text><text x=\"315\" y=\"248\" font-family=\"Georgia,Times New Roman,serif\" font-size=\"22\" font-style=\"italic\">V</text><text x=\"434\" y=\"248\" font-family=\"Georgia,Times New Roman,serif\" font-size=\"22\" font-style=\"italic\">R</text><text x=\"434\" y=\"26\" font-family=\"Georgia,Times New Roman,serif\" font-size=\"22\" font-style=\"italic\">S</text><text x=\"210\" y=\"128\" font-family=\"Georgia,Times New Roman,serif\" font-size=\"22\" font-style=\"italic\">T</text><text x=\"236\" y=\"157\" font-family=\"Georgia,Times New Roman,serif\" font-size=\"22\" font-style=\"italic\">x°</text><text x=\"140\" y=\"268\" text-anchor=\"middle\" font-family=\"Georgia,Times New Roman,serif\" font-size=\"16\">Note: Figure not drawn to scale.</text></svg>"
+    }
+  },
+  {
+    "question_number": 19,
+    "response_type": "multiple_choice",
+    "prompt": "A cube has an edge length of 82 inches. A solid sphere with a radius of 41 inches is inside the cube, such that the sphere touches the center of each face of the cube. To the nearest cubic inch, what is the volume of the space in the cube not taken up by the sphere?",
+    "options": {
+      "A": "262,672",
+      "B": "288,532",
+      "C": "334,846",
+      "D": "546,087"
+    },
+    "answer": null,
+    "source_document": "MAY - VER 1 -  INT -  2024.pdf",
+    "source_page": 19,
+    "has_uncertain_transcription": false
+  },
+  {
+    "question_number": 20,
+    "response_type": "multiple_choice",
+    "prompt": "The function \\(h\\) is defined by \\(h(x)=a^{x}+b\\), where \\(a\\) and \\(b\\) are positive constants. The graph of \\(y=h(x)\\) in the \\(xy\\)-plane passes through the points \\((0,8)\\) and \\((2,32)\\). What is the value of \\(ab\\)?",
+    "options": {
+      "A": "\\(32\\)",
+      "B": "\\(35\\)",
+      "C": "\\(40\\)",
+      "D": "\\(64\\)"
+    },
+    "answer": null,
+    "source_document": "MAY - VER 1 -  INT -  2024.pdf",
+    "source_page": 20,
+    "has_uncertain_transcription": false
+  },
+  {
+    "question_number": 21,
+    "response_type": "multiple_choice",
+    "prompt": "\\[f(x)=\\sqrt{5x+6}\\]The function \\(f\\) is defined by the given equation. If \\(f(a)=-5a\\), where \\(a\\) is a constant, what is the value of \\(a\\)?",
+    "options": {
+      "A": "\\(\\frac{3}{5}\\)",
+      "B": "\\(\\frac{2}{5}\\)",
+      "C": "\\(-\\frac{2}{5}\\)",
+      "D": "\\(-\\frac{3}{5}\\)"
+    },
+    "answer": null,
+    "source_document": "MAY - VER 1 -  INT -  2024.pdf",
+    "source_page": 21,
+    "has_uncertain_transcription": false
+  },
+  {
+    "question_number": 22,
+    "response_type": "multiple_choice",
+    "prompt": "\\[f(x)=k(1.84)^{x}\\]The function \\(f\\) is defined by the given equation, where \\(k\\) is a constant. The value of \\(f(x)\\) increases by \\(p\\%\\) for every increase of \\(x\\) by 1. For which of the following functions, where \\(k\\) is a constant, does the value of \\(g(x)\\) increase by \\(p\\%\\) for every increase of \\(x\\) by 4?",
+    "options": {
+      "A": "\\(g(x)=k\\left((1.84)^{x}\\right)^{\\frac14}\\)",
+      "B": "\\(g(x)=k\\left(1.84^{x}\\right)^{4}\\)",
+      "C": "\\(g(x)=k(1.84)^{x-4}\\)",
+      "D": "\\(g(x)=k(1.84)^{x+4}\\)"
+    },
+    "answer": null,
+    "source_document": "MAY - VER 1 -  INT -  2024.pdf",
+    "source_page": 22,
+    "has_uncertain_transcription": false
+  }
+]
